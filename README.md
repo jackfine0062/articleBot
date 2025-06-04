@@ -1,2 +1,2 @@
 # dealbot
-A bot that tweets new deals from fast food joints and restaurants.
+A bot that that makes twitter post based off of rss feeds.
